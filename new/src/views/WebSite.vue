@@ -1,0 +1,3 @@
+<template>
+    <h1>My Website</h1>
+</template>
